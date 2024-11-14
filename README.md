@@ -46,6 +46,11 @@
 ![image](https://github.com/user-attachments/assets/cd278762-55ad-43b6-862f-c10d51547699)
 
 
+# ejemplo 12:CSS interno
+![image](https://github.com/user-attachments/assets/f61b0a6f-f74c-4679-bd28-f435dc9fa4b7)
+![image](https://github.com/user-attachments/assets/f26162f6-ceda-4be4-a1c9-73079fa70174)
+
+
 
 
 
